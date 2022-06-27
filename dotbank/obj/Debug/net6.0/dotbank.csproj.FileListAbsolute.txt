@@ -1,0 +1,15 @@
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\bin\Debug\net6.0\dotbank.exe
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\bin\Debug\net6.0\dotbank.deps.json
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\bin\Debug\net6.0\dotbank.runtimeconfig.json
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\bin\Debug\net6.0\dotbank.dll
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\bin\Debug\net6.0\dotbank.pdb
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\obj\Debug\net6.0\dotbank.csproj.AssemblyReference.cache
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\obj\Debug\net6.0\dotbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\obj\Debug\net6.0\dotbank.AssemblyInfoInputs.cache
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\obj\Debug\net6.0\dotbank.AssemblyInfo.cs
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\obj\Debug\net6.0\dotbank.csproj.CoreCompileInputs.cache
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\obj\Debug\net6.0\dotbank.dll
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\obj\Debug\net6.0\refint\dotbank.dll
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\obj\Debug\net6.0\dotbank.pdb
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\obj\Debug\net6.0\dotbank.genruntimeconfig.cache
+C:\Users\exime\Desktop\Cursos\C\FirstClass\dotbank\dotbank\obj\Debug\net6.0\ref\dotbank.dll
