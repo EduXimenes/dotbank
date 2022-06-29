@@ -1,30 +1,29 @@
 ﻿using dotbank;
+using dotbank.titular;
 
-ContaCorrente conta1 = new ContaCorrente();
-conta1.titular = "Eduardo Ximenes";
-conta1.conta = "12345-x";
-conta1.numero_agencia = 17;
-conta1.nome_agencia = "Santander";
-conta1.saldo = 1000;
+Titular cliente1 = new Titular();
+cliente1.Nome = "Eduardo";
 
-ContaCorrente conta2 = new ContaCorrente();
-conta2.titular = "Rodolfo";
-conta2.conta = "3235-x";
-conta2.numero_agencia = 17;
-conta2.nome_agencia = "Santander";
-conta2.saldo = 100;
+Titular cliente2 = new Titular();
+cliente2.Nome = "Rodolfo";
 
+ContaCorrente conta1 = new ContaCorrente(17, "12345-x");
+conta1.Titular = cliente1;
+conta1.Nome_agencia = "Santander";
+conta1.Saldo =1000;
+
+ContaCorrente conta2 = new ContaCorrente(17, "3235-x");
+conta2.Titular = cliente2;
+conta2.Nome_agencia = "Santander";
+conta2.Saldo = 1000;
 
 Console.WriteLine("Bem vindo ao DotBank!!");
 
-Console.WriteLine("Conta do Eduardo saldo atual: " + conta1.saldo);
-Console.WriteLine("Conta do Rodolfo saldo atual: " + conta2.saldo);
+Console.WriteLine("Rodolfo: "+ conta2.Titular.Nome);
+Console.WriteLine("Saldo Rodolfo " +conta2.Conta);
 
-Titular titular = new Titular();
-titular.nome = "Eduardo";
-titular.cpf = "12345678";
-titular.profissao = "carry";
-
-
+Console.WriteLine(ContaCorrente.TotalDeContas);
 
 Console.ReadKey();
+
+
